@@ -1,1 +1,1 @@
-# push 되는지 확인(이한나)
+# push, commit 확인 
