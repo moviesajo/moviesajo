@@ -1,1 +1,1 @@
-# push, commit 확인 
+# git push 확인하기
